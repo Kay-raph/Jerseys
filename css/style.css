@@ -3951,10 +3951,10 @@ ol {
 
 @media only screen and (max-width: 991px) {
 	.banner-section {
-		padding: 80px 0 50px;
+		padding: 50px 0 30px;
 	}
 	.single-banner {
-		margin-bottom: 30px;
+		margin-bottom: 20px;
 	}
 	.women-banner {
 		padding-right: 0;
@@ -3969,10 +3969,12 @@ ol {
 		margin-right: 0;
 	}
 	.dealz {
-		background-image: url("../img/time-bg.png");
+		background-image: url("../shoes/irving.png");
 		background-position: top;
 		background-repeat: no-repeat;
-		height: auto;
+	}
+	.dealz h2,p{
+		color: #00c412;
 	}
 	.product-slider .owl-nav button[type=button] {
 		display: none;
