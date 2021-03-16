@@ -4071,6 +4071,9 @@ ol {
 /* Large Device: 480px */
 
 @media only screen and (max-width: 767px) {
+	.hero-items .single-hero-items img{
+		width: 50%;
+	}
 	.instagram-photo .insta-item {
 		width: 50%;
 		height: 300px;
@@ -4243,6 +4246,9 @@ ol {
 /* Small Device: 320px */
 
 @media only screen and (max-width: 479px) {
+	.hero-items .single-hero-items img{
+		width: 50%;
+	}
 	.instagram-photo .insta-item {
 		width: 100%;
 	}
