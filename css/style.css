@@ -4205,7 +4205,8 @@ ol {
 		width: 100px;
 	}
 	.hero-items .off-card {
-		display: none;
+		margin-top: -150px;
+		margin-left: 50px;
 	}
 	.ps-slider .owl-nav button[type=button] {
 		left: 0;
